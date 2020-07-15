@@ -1,0 +1,21 @@
+{
+  "contributors": [
+    "Ken Stanley <support@dohpaz.dev>"
+  ],
+  "description": "Hadron is a persistent data store for user preferences, app state, cache, and more.",
+  "dependencies": {
+    "conf": "^7.0.1",
+    "env-paths": "^2.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "license": "MIT",
+  "main": "lib/hadron.js",
+  "name": "@quarkboard/hadron",
+  "repository": "https://github.com/quarkboard/hadron.git",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "version": "0.1.0"
+}
