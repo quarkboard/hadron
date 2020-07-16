@@ -10,6 +10,15 @@
   "devDependencies": {
     "jasmine": "^3.5.0"
   },
+  "keywords": [
+    "cache",
+    "config",
+    "configuration",
+    "quarkboard plugin",
+    "preferences",
+    "quarkboard",
+    "store"
+  ],
   "license": "MIT",
   "main": "lib/hadron.js",
   "name": "@quarkboard/hadron",
