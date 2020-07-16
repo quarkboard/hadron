@@ -10,6 +10,9 @@
   "devDependencies": {
     "jasmine": "^3.5.0"
   },
+  "engines": {
+    "node": ">=11.13.0"
+  },
   "keywords": [
     "cache",
     "config",
