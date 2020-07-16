@@ -25,6 +25,7 @@
   "license": "MIT",
   "main": "lib/hadron.js",
   "name": "@quarkboard/hadron",
+  "private": false,
   "repository": "https://github.com/quarkboard/hadron.git",
   "scripts": {
     "test": "./node_modules/jasmine/bin/jasmine.js"
