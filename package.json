@@ -2,11 +2,11 @@
   "contributors": [
     "Ken Stanley <support@dohpaz.dev>"
   ],
-  "description": "Hadron is a persistent data store for user preferences, app state, cache, and more.",
   "dependencies": {
     "conf": "^7.0.1",
     "env-paths": "^2.2.0"
   },
+  "description": "Hadron is a persistent data store for user preferences, app state, cache, and more.",
   "devDependencies": {
     "jasmine": "^3.5.0"
   },
